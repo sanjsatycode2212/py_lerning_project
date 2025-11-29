@@ -1,0 +1,1 @@
+this reposetory tells all about python, basic/ :- in this folder you can see all about basic to advaced python which i learned and i want to provide that all method which is relaibale for your python learning 
